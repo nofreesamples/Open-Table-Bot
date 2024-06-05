@@ -103,7 +103,7 @@ class OpenTable:
 
 load_dotenv()
 
-date = "2023-08-15"
+date = "2024-06-15"
 time = "19:00"
 reservation_open_time = "12:38"
 party_size = 2
